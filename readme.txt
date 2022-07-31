@@ -1,0 +1,1 @@
+Open or close all dockers previously opened with one click 
